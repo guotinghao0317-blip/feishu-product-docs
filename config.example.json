@@ -1,0 +1,22 @@
+{
+  "chat": {
+    "name": "",
+    "chat_id": ""
+  },
+  "assistants": {
+    "research": {
+      "name": "",
+      "open_id": ""
+    },
+    "bi": {
+      "name": "",
+      "open_id": ""
+    }
+  },
+  "voice": {
+    "enabled": false,
+    "mcp_server_name": "",
+    "endpoint": "",
+    "guide_url": ""
+  }
+}
